@@ -1,2 +1,0 @@
-# lucky-cookie
-chrome extension
